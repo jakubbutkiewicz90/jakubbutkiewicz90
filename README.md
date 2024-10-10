@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm studying for my degree at Poznań Univsity of Technology. I'm currently on my third year and have a little bit of experience with C and C++.
+
 <!--
 **jakubbutkiewicz90/jakubbutkiewicz90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
